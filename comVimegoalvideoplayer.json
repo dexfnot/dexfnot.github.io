@@ -1,7 +1,7 @@
 {
    "data":{
       "appnote":"Start screen is managed on launch variable.",
-      "wortise_account_id":"abcd2243",
+      "wortise_account_id":"a152fb49-4ee8-4b41-b9fd-4dc17beafb72",
       "aa_is_guide_screen":"true",
       "title":"All Video Player",
       "description":"Introducing All Video Player - The Ultimate Video Player for Android",
@@ -11,8 +11,8 @@
       "launch_count":"20",
       "start_type":"p,a,b,c,d,e,f",
       "aa_ads_default_native":"false",
-      "aa_ads_native_on_off":"false",
-      "aa_ads_banner_on_off":"false",
+      "aa_ads_native_on_off":"true",
+      "aa_ads_banner_on_off":"true",
       "aa_is_twist":"false",
       "aa_is_back_count":"true",
       "aa_ads_nativecolor":"",
@@ -45,7 +45,7 @@
       "applovin_open":"",
       "wortise_inter":"test-interstitial",
       "wortise_inter_open":"test-app-open",
-      "wortise_banner":"test-banner",
+      "wortise_banner":"c75a0d71-321a-4f6f-ab0c-f86c07164da6",
       "wortiseNative":"test-native",
       "inmobi_account_id":"",
       "inmobi_banner":"",
