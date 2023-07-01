@@ -1,7 +1,7 @@
 {
    "data":{
       "appnote":"Start screen is managed on launch variable.",
-      "wortise_account_id":"sasaCAASD",
+      "wortise_account_id":"92b52dbf-b94a-4286-a4aa-d81b73415894",
       "aa_is_guide_screen":"true",
       "title":"Photo Background Eraser",
       "description":"Remove Backgrounds Effortlessly with the Photo Background Eraser",
@@ -43,10 +43,10 @@
       "applovin_native_small":"",
       "applovin_inter":"",
       "applovin_open":"",
-      "wortise_inter":"test-interstitial",
-      "wortise_inter_open":"test-app-open",
-      "wortise_banner":"test-banner",
-      "wortiseNative":"test-native",
+      "wortise_inter":"b7b51e90-98c5-4590-811b-55969d5c2486",
+      "wortise_inter_open":"9962e180-5191-4c83-a393-dfffb6ad0450",
+      "wortise_banner":"fabb6880-1a8a-46da-925c-b252dfa3b03f",
+      "wortiseNative":"7be0d56d-c1ea-435f-bd37-82212998b646",
       "inmobi_account_id":"",
       "inmobi_banner":"",
       "inmobi_native":"",
