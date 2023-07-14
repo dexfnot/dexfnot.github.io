@@ -246,27 +246,14 @@ rubiconproject.com, 20680, RESELLER, 0bfd66d529a55807
 google.com , pub-5413329544040947, RESELLER, f08c47fec0942fa0
 gumgum.com, 11645, RESELLER, ffdef49475d318a9
 
-
-
-
-
-
 #Google#
  
 google.com, pub-1912561085588771, DIRECT, f08c47fec0942fa0
 google.com, pub-4537341636281998, DIRECT, f08c47fec0942fa0
-
- 
 #Media net#
- 
 media.net, 8CUID6N13, DIRECT
- 
 #Magnite#
- 
-rubiconproject.com, 22884, DIRECT, 0bfd66d529a55807
- 
 #Mobfox#
- 
 uis.mobfox.com, 841, DIRECT, 5529a3d1f59865be
 conversantmedia.com, 100331, RESELLER, 03113cd04947736d
 pubmatic.com, 156451, RESELLER, 5d62403b186f2ace
@@ -276,17 +263,12 @@ adform.com, 2742, RESELLER
 pubmatic.com, 161771, RESELLER, 5d62403b186f2ace
 freewheel.tv, 1592517, RESELLER
 freewheel.tv, 1592524, RESELLER
-
- 
 #Fluct#
- 
 adingo.jp, 25370, DIRECT
 pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
- 
 #Yieldmo#
- 
 yieldmo.com, 2819813923841056899, RESELLER #ebda
 rubiconproject.com, 17070, RESELLER, 0bfd66d529a55807 #yieldmo
 pubmatic.com, 160648, RESELLER, 5d62403b186f2ace #yieldmo
@@ -309,9 +291,7 @@ admanmedia.com, 746, RESELLER #yieldmo
 visiblemeasures.com, 1041, DIRECT #yieldmo
 iqzone.com,IQ190,RESELLER
 krushmedia.com, AJxF6R537a9M6CaTvK, RESELLER
- 
 #Smaato#
- 
 smaato.com, 1100049717, DIRECT, 07bcf65f187117b4
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 adcolony.com, 496220845654deec, RESELLER, 1ad675c9de6b5176
@@ -340,7 +320,6 @@ rhythmone.com, 4201299756, RESELLER, a670c89d4a324e47
 smartadserver.com, 3117, RESELLER
 startapp.com, smt, RESELLER
 xad.com, 241, RESELLER, 81cbf0a75a5e0e9a
-
 #Smart Adserver#
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
@@ -366,6 +345,4 @@ smartadserver.com, 4071, DIRECT
 smartadserver.com, 4073, DIRECT
 #MXN
 smartadserver.com, 4074, DIRECT
-
 wortise.com, 2290fe9f-02f5-461f-8d72-4b18d84cda67, DIRECT
-
