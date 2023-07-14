@@ -368,4 +368,4 @@ smartadserver.com, 4073, DIRECT
 smartadserver.com, 4074, DIRECT
 
 wortise.com, 2290fe9f-02f5-461f-8d72-4b18d84cda67, DIRECT
-wortise.com, c44ddb94-ab0d-42c3-89d2-f0a20262d36a, DIRECT
+
