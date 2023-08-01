@@ -347,3 +347,7 @@ smartadserver.com, 4073, DIRECT
 #MXN
 smartadserver.com, 4074, DIRECT
 wortise.com, 2290fe9f-02f5-461f-8d72-4b18d84cda67, DIRECT
+#Azerion
+improvedigital.com, 2301, RESELLER
+#meta
+facebook.com, 160280386238251, DIRECT, c3e20eee3f780d68
