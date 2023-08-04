@@ -107,7 +107,7 @@
       "Inter3":"true",
       "Inter4":"true",
       "Reward":"true",
-      "Notification":"10000",
-      "Notification":"1000"
+      "Notification":"10",
+      "Notification":"60"
    }
 }
