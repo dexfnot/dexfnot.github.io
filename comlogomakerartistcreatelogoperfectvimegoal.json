@@ -1,7 +1,7 @@
 {
    "data":{
       "appnote":"Start screen is managed on launch variable.",
-      "wortise_account_id":"92b52dbf-b94a-4286-a4aa-d81b73415894",
+      "wortise_account_id":"",
       "aa_is_guide_screen":"true",
       "title":"GB Version",
       "description":"GB What's tools for a chat app.",
@@ -15,7 +15,7 @@
       "aa_ads_native_on_off_1":"true",
       "reward":"true",
       "interoptional":"true",
-      "aa_ads_banner_on_off":"true",
+      "aa_ads_banner_on_off":"false",
       "aa_is_twist":"false",
       "aa_is_back_count":"true",
       "aa_ads_nativecolor":"",
@@ -23,7 +23,7 @@
       "aa_is_splash_inter":"false",
       "is_rectbanner":"false",
       "ads_type":"google",
-      "aa_privacy_policy":"https:\/\/kormowork.github.io\/privacy_policy.html",
+      "aa_privacy_policy":"",
       "ads1_appopen":"/6499/example/app-open",
       "ads1_appopen_splash":"/6499/example/app-open",
       "ads1_banner":"/6499/example/banner",
