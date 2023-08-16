@@ -2,13 +2,13 @@
    "data":{
       "wortise_account_id":"",
       "ads_status":"on",
-      "aa_ads_click":"20",
-      "launch_count":"20",
+      "aa_ads_click":"2",
+      "launch_count":"2",
       "start_type":"p,a,b,c,d,e,f",
       "aa_ads_default_native":"false",
-      "aa_ads_native_on_off":"false",
-      "reward":"false",
-      "aa_ads_banner_on_off":"false",
+      "aa_ads_native_on_off":"true",
+      "reward":"true",
+      "aa_ads_banner_on_off":"true",
       "aa_is_back_count":"true",
       
       
@@ -58,7 +58,7 @@
       "Inter3":"true",
       "Inter4":"true",
       "Reward":"false",
-      "Notification1":"1000000",
-      "Notification2":"6000000"
+      "Notification1":"10",
+      "Notification2":"60"
    }
 }
