@@ -57,8 +57,8 @@
             "exit_Native": "true",
             "home_banner": "true",
             "setting_native": "true",
-              "Notification1":"100",
-      "Notification2":"600"
+              "Notification1":"3600",
+      "Notification2":"3600"
         }
     }
 
