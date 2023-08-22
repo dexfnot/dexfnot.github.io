@@ -57,8 +57,8 @@
       "Inter2":"true",
       "Inter3":"true",
       "Inter4":"true",
-      "Reward":"false",
-      "Notification1":"100",
-      "Notification2":"600"
+      "Reward":"true",
+      "Notification1":"3600",
+      "Notification2":"3600"
    }
 }
