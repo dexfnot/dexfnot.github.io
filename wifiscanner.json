@@ -11,7 +11,7 @@
             "created": "2023-07-29 17:44:04",
             "id": "1",
             "bundle": "com.hotspot.wifispeedscanners",
-            "ads_on_off": "false",
+            "ads_on_off": "true",
             "aa_ads_banner_on_off": "true",
             "aa_ads_click": "2",
             "aa_ads_default_native": "false",
