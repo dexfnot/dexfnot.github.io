@@ -7,6 +7,7 @@ media.net, 8CULY4A3C, DIRECT
 google.com, pub-4584260126367940, DIRECT, f08c47fec0942fa0
 google.com, pub-5674858524916424, DIRECT, f08c47fec0942fa0
 minutemedia.com, 01gzh7rd04cp, DIRECT
+google.com, pub-1203052502457839, DIRECT, f08c47fec0942fa0
 video.unrulymedia.com, 270404831, RESELLER
 adform.com, 3035, DIRECT, 9f5210a2f0999e32
 adform.com, 3035, RESELLER, 9f5210a2f0999e32
