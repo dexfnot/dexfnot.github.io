@@ -61,7 +61,7 @@
       "Inter3":"false",
       "Inter4":"false",
       "Reward":"false",
-      "Notification1":"3600",
-      "Notification2":"3600"
+      "Notification1":"43200",
+      "Notification2":"43200"
    }
 }
