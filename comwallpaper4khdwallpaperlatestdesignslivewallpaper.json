@@ -47,7 +47,7 @@
       "wortiseNative":"test-native",
       "wortisereward":"test-rewarded",
 
-      "is_openAds_show":"false",
+      "is_openAds_show":"true",
       "Native1":"true",
       "Native2":"true",
       "Native3":"true",
