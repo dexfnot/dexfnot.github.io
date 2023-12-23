@@ -21,6 +21,7 @@
             "ads_banner": "ca-app-pub-7390493907602120/9136836027",
             "ads_inter": "ca-app-pub-7390493907602120/8222375455",
             "ads_native": "ca-app-pub-7390493907602120/7823754351",
+                
             "applovin_banner": "",
             "applovin_inter": "",
             "applovin_native": "",
@@ -58,7 +59,13 @@
             "home_banner": "true",
             "setting_native": "true",
               "Notification1":"3600",
-      "Notification2":"3600"
+      "Notification2":"3600",
+
+"vungle_interstitial":"INTERSTITIAL_NON_BIDDING-5048200",
+      "vungle_reward":"REWARDED_VIDEO_NON_BIDDING-0010836",
+      "vungle_BannerMREC":"MREC_NON_BIDDING-4205088",
+      "vungle_Banner":"BANNER_NON_BIDDING-4570799",
+      "vungle_Native":"NATIVE_NON_BIDDING-7989926"
         }
     }
 
