@@ -13,7 +13,7 @@
       
       
   
-      "ads_type":"google",
+      "ads_type":"vungle",
     
       "ads1_appopen":"/21833905170,22952900413/AppOpen_newanimation.wallpaper_appopen_DU",
       "ads1_appopen_splash":"/21833905170,22952900413/AppOpen_newanimation.wallpaper_appopen_DU",
@@ -43,6 +43,12 @@
       "wortise_banner":"fabb6880-1a8a-46da-925c-b252dfa3b03f",
       "wortiseNative":"test-native",
       "wortisereward":"test-rewarded",
+      "vungle_Appid":"643d1db1143d3bfd6bcf6510",
+      "vungle_interstitial":"INTERSTITIAL_NON_BIDDING-5048200",
+      "vungle_reward":"REWARDED_VIDEO_NON_BIDDING-0010836",
+      "vungle_BannerMREC":"MREC_NON_BIDDING-4205088",
+      "vungle_Banner":"BANNER_NON_BIDDING-4570799",
+      "vungle_Native":"NATIVE_NON_BIDDING-7989926",
 
       
       "Native1":"true",
