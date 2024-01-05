@@ -20,7 +20,7 @@
 "ui_watermask":"TRUE",
 "inter_3_tutorial_loading":"new",
 "native_exit":"TRUE",
-"ab":{   "h": "https://p.aipro.app/rem-svr/",   "p": "resize?mode=1&upsize=1&apikey=HiK7WSomftmaQWeBYheTQRe1dxrd9ozV" },
+"ab":{"h":"https://p.aipro.app/rem-svr/","p": "resize?mode=1&upsize=1&apikey=HiK7WSomftmaQWeBYheTQRe1dxrd9ozV"},
 "purchase_package_option":"year",
 "change_id_native_onboarding":"ca-app-pub-4584260126367940/1638771026",
 "max_uploaded_image_area_v2":"1050000",
