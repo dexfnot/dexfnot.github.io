@@ -22,7 +22,7 @@
       "aa_is_rating":"false",
       "aa_is_splash_inter":"false",
       "is_rectbanner":"false",
-      "ads_type":"vungle",
+      "ads_type":"wortise",
       "aa_privacy_policy":"https:\/\/kormowork.github.io\/privacy_policy.html",
       "ads1_appopen":"/6499/example/app-open",
       "ads1_appopen_splash":"/6499/example/app-open",
@@ -47,6 +47,12 @@
       "applovin_native_small":"",
       "applovin_inter":"",
       "applovin_open":"",
+            "vungle_Appid":"643d1db1143d3bfd6bcf6510",
+      "vungle_interstitial":"INTERSTITIAL_NON_BIDDING-5048200",
+      "vungle_reward":"REWARDED_VIDEO_NON_BIDDING-0010836",
+      "vungle_BannerMREC":"MREC_NON_BIDDING-4205088",
+      "vungle_Banner":"BANNER_NON_BIDDING-4570799",
+      "vungle_Native":"NATIVE_NON_BIDDING-7989926",
       "wortise_inter":"test-interstitial",
       "wortise_inter_open":"test-app-open",
       "wortise_banner":"test-banner",
@@ -57,12 +63,6 @@
       "inmobi_native":"",
       "inmobi_native_small":"",
       "inmobi_inter":"",
-      "vungle_Appid":"643d1db1143d3bfd6bcf6510",
-      "vungle_interstitial":"INTERSTITIAL_NON_BIDDING-5048200",
-      "vungle_reward":"REWARDED_VIDEO_NON_BIDDING-0010836",
-      "vungle_BannerMREC":"MREC_NON_BIDDING-4205088",
-      "vungle_Banner":"BANNER_NON_BIDDING-4570799",
-      "vungle_Native":"NATIVE_NON_BIDDING-7989926",
       "home_screen_native":"true",
       "qr_maker_native":"true",
       "qr_scanner_native":"true",
@@ -97,5 +97,6 @@
       "msg_chat_native_or_banner":"true",
       "exit_screen_ad_show":"true",
       "is_exit_screen_show":"false"
+      
    }
 }
