@@ -567,7 +567,7 @@ improvedigital.com, 2301, RESELLER
 #meta
 facebook.com, 160280386238251, DIRECT, c3e20eee3f780d68
 #ProfitSence - Programmatic Ad Exchange Network
-vungle.com,[yourVunglePublisherAccountID],DIRECT,c107d686becd2d77
+vungle.com,64ae8bbd4da41800114f9cee,DIRECT,c107d686becd2d77
 152media.info,152M312,RESELLER
 Adform.com,2742,RESELLER
 Pubmatic.com,162882,RESELLER,5d62403b186f2ace
