@@ -4,9 +4,9 @@
   "data":[
     {
 
-      "AdmobInterstitial":"/21833905170,22952900413/Interstitial_1_latestversion.whatsversion_interstitial_DU",
-      "AdmobBanner":"/21833905170,22952900413/Banner_1_latestversion.whatsversion_banner_DU",
-      "AdmobNative" :"/21833905170,22952900413/Native_1_latestversion.whatsversion_native_DU",
+      "AdmobInterstitial":"",
+      "AdmobBanner":"",
+      "AdmobNative" :"",
 
       "ApplovinInterstitial":"f9b2879fb834a9ca",
       "ApplovinBanner":"42ed89426183f963",
