@@ -10,15 +10,9 @@
       "reward":"true",
       "aa_ads_banner_on_off":"true",
       "aa_is_back_count":"true",
-      
-      
-  
       "ads_type":"google",
-    
       "ads1_appopen":"/21833905170,22952900413/AppOpen_bookingstatus.livetraininfo_appopen_DU",
       "wortise_openAd":"0c74b2cf-f90c-4918-8bd1-823180c61a74",
-
-
       "ads1_appopen_splash":"/21833905170,22952900413/AppOpen_bookingstatus.livetraininfo_appopen_DU",
       "ads1_banner":"/21833905170,22952900413/Banner_bookingstatus.livetraininfo_banner_DU",
       "ads1_inter_other":"/21833905170,22952900413/Interstitial_bookingstatus.livetraininfo_interstitial_DU",
@@ -53,7 +47,6 @@
       "vungle_Banner":"BANNER_NON_BIDDING-4570799",
       "vungle_Native":"NATIVE_NON_BIDDING-7989926",
       "vungle_reward":"REWARDED_VIDEO_NON_BIDDING-0010836",
-
       "is_openAds_show":"true",
       "Native1":"true",
       "Native2":"true",
