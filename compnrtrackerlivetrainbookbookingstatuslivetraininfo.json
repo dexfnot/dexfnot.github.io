@@ -7,7 +7,7 @@
       "aa_ads_click":"1",
       "launch_count":"1",
       "start_type":"p,a,b,c,d,e,f",
-      "aa_ads_default_native":"false",
+      "aa_ads_default_native":"true",
       "aa_ads_native_on_off":"true",
       "reward":"true",
       "aa_ads_banner_on_off":"true",
