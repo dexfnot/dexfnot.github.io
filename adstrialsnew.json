@@ -1,8 +1,8 @@
 {
    "data":{
-      "wortise_account_id":"92b52dbf-b94a-4286-a4aa-d81b73415894",
       "ads_status":"on",
       "aa_ads_click":"1",
+      "wortise_account_id":"92b52dbf-b94a-4286-a4aa-d81b73415894",
       "launch_count":"1",
       "start_type":"p,a,b,c,d,e,f",
       "aa_ads_default_native":"false",
@@ -10,15 +10,9 @@
       "reward":"true",
       "aa_ads_banner_on_off":"true",
       "aa_is_back_count":"true",
-      
-      
-  
       "ads_type":"google",
-    
       "ads1_appopen":"ca-app-pub-3940256099942544/9257395921",
       "wortise_openAd":"0c74b2cf-f90c-4918-8bd1-823180c61a74",
-
-
       "ads1_appopen_splash":"ca-app-pub-3940256099942544/9257395921",
       "ads1_banner":"/6499/example/banner",
       "ads1_inter_other":"/6499/example/interstitial",
@@ -53,7 +47,6 @@
       "vungle_Banner":"BANNER_NON_BIDDING-4570799",
       "vungle_Native":"NATIVE_NON_BIDDING-7989926",
       "vungle_reward":"REWARDED_VIDEO_NON_BIDDING-0010836",
-
       "is_openAds_show":"true",
       "Native1":"true",
       "Native2":"true",
