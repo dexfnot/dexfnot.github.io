@@ -1,4 +1,0 @@
-/6499/example/app-open
-/6499/example/banner
-/6499/example/interstitial
-/6499/example/native
